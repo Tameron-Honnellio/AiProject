@@ -1,6 +1,6 @@
 # Ai Project
-Pokemon Showdown AI Bot Developed Using Python and Poke-Env
-This is a Student Project For COMP 4200 Artificial Intelligence at University Massachusetts Lowell 
+Pokemon Showdown AI Bot Developed Using Python and Poke-Env.
+This is a Student Project For COMP 4200 Artificial Intelligence at University Massachusetts Lowell. 
 
 Dependencies:
 - Poke-Env
