@@ -8,9 +8,9 @@ Dependencies:
 - VSCode
 
 How To Run (Bot vs. Human):
-- Create a pokemon showdown account
-- Clone the repo
-  - Ensure the pokemonshowdown repo is cloned under its respective folder
+- Create a pokemon showdown account: https://pokemonshowdown.com/
+- Clone the repository (add "--recurse-submodules" to the clone command to add the pokemon-showdown submodule)
+  - Ensure the pokemon-showdown repository is cloned under its respective folder
   - Navigate to pokemon-showdown/config
   - Copy the config-example.js
   - Create a new file at config/config.js and paste the contents
