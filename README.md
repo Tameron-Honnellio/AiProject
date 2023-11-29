@@ -14,7 +14,7 @@ How To Run (Bot vs. Human):
   - Ensure the pokemon-showdown repository is cloned under its respective folder
   - Navigate to pokemon-showdown/config
   - Copy the contents of config-example.js
-  - Create a new file at config/config.js and paste the contents
+  - Create a new file at pokemon-showdown/config/config.js and paste the contents
 - Navigate to the project folder in VSCode
 - Open a new terminal
   - Create a local pokemon showdown server with the following commmand: node pokemon-showdown start --no-security
