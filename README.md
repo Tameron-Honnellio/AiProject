@@ -1,5 +1,6 @@
 # Ai Project
 Pokemon Showdown AI Bot Developed Using Python and Poke-Env
+This is a Student Project For COMP 4200 Artificial Intelligence at University Massachusetts Lowell 
 
 Dependencies:
 - Poke-Env
@@ -22,6 +23,10 @@ How To Run (Bot vs. Human):
 - Edit line 17 to match your pokemon showdown username: await random_player.send_challenges("username", n_challenges=1)
 - Run the main.py file and return to pokemon showdown
 - Accept the challenge sent by the bot
+
+Contributers:
+- Tameron Honnellio
+- Matthew Catanzano
 
 References: 
 - https://pokemonshowdown.com/
