@@ -12,7 +12,7 @@ How To Run (Bot vs. Human):
 - Clone the repository (add "--recurse-submodules" to the clone command to add the pokemon-showdown submodule)
   - Ensure the pokemon-showdown repository is cloned under its respective folder
   - Navigate to pokemon-showdown/config
-  - Copy the config-example.js
+  - Copy the contents of config-example.js
   - Create a new file at config/config.js and paste the contents
 - Navigate to the project folder in VSCode
 - Open a new terminal
