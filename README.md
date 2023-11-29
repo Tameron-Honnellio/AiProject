@@ -17,6 +17,7 @@ How To Run (Bot vs. Human):
   - Create a new file at pokemon-showdown/config/config.js and paste the contents
 - Navigate to the project folder in VSCode
 - Open a new terminal
+  - cd into the pokemon-showdown folder
   - Create a local pokemon showdown server with the following commmand: node pokemon-showdown start --no-security
   - Open the resulting link provided after "...Test your server at: http://localhost:8000"
 - Return to VSCode and navigate to main.py under RandomAgentVsHuman
