@@ -27,8 +27,8 @@ How To Run (Bot vs. Human):
 How To Run (Bot vs. Bot):
 - If a local server is not running, follow the steps above until "Return to VSCode..."
 - Return to VSCode and navigate to main.py under RandomAgentVsMaxDamageAgent
-- Run the main.py file and return to pokemon showdown
-- The resulting data will be printed out to the terminal
+- Run the main.py file
+- The resulting battle data will be printed out to the terminal
 - Each individual battle may be viewed by:
   - Navigating to the local pokemon showdown server
   - Click any individual instance of: "[Gen 8] Random Battle battle started between MaxDamagePlayer 1 and RandomPlayer 1."
