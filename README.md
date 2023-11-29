@@ -26,5 +26,6 @@ How To Run (Bot vs. Human):
 References: 
 - https://pokemonshowdown.com/
 - https://github.com/smogon/pokemon-showdown/tree/master
+- https://poke-env.readthedocs.io/en/stable/getting_started.html
 - https://github.com/hsahovic/poke-env/tree/5c4407ecf24574eb40987b698f37e5fdfcec6343
 - https://nodejs.org/en/download
