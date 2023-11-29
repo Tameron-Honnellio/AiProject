@@ -39,6 +39,7 @@ Contributers:
 - Matthew Catanzano
 
 References: 
+- https://www.kaggle.com/datasets/mylesoneill/pokemon-sun-and-moon-gen-7-stats
 - https://pokemonshowdown.com/
 - https://github.com/smogon/pokemon-showdown/tree/master
 - https://poke-env.readthedocs.io/en/stable/getting_started.html
